@@ -1,0 +1,78 @@
+cs
+home
+pd
+fd 200
+rt 90
+fd 450
+rt 90
+fd 200
+rt 90
+fd 450
+home
+pu
+fd 20
+rt 90
+fd 50
+lt 130
+pd
+repeat 15 [fd 10 rt 5]
+pu
+seth 0
+bk 20
+rt 90
+pd
+fd 60
+pu
+bk 30
+rt 90
+pd
+fd 90
+pu
+seth 0
+rt 90
+fd 50
+pd
+fd 50
+lt 90
+fd 90
+pu
+lt 90
+fd 50
+pd
+rt 270
+fd 90
+lt 90
+pu 
+fd 80
+lt 90
+pd
+fd 90
+rt 90
+fd 50
+rt 90
+fd 30
+rt 90
+fd 50
+rt 235
+fd 75
+pu
+seth 0
+rt 90
+fd 30
+lt 90
+fd 90
+rt 90
+pd
+fd 80
+bk 40
+rt 90
+fd 90
+pu
+lt 90
+fd 40
+seth 0
+bk 15
+pd
+seth 30
+repeat 15 [fd 10 lt 5]
+hideturtle
