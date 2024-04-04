@@ -9,4 +9,4 @@ What is the full version number of the operating system on the suspect machine? 
 </details>
 
 Description:<br> 
-To solve this problem, users will have to analyze the memory capture to find the version of the OS. Volatility is a good tool for this.
+To solve this problem, users will have to analyze the memory capture to find the version of the OS. Volatility is a good tool for this. Memory sample provided by CyberDefenders
